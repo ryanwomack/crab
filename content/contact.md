@@ -59,7 +59,7 @@ fax: 732-932-1101
 **Rutgers e-mail:** [rwomack at rutgers.edu]\
 **non-Rutgers e-mail:** [ryan at ryanwomack.com]
 
-You can book an online appointment with me to consult about data or research. These meetings are held online via Webex.
+You can book an online appointment with me to consult about data or research. These meetings are held online via Zoom.
 
 **Appointments:**
 \
