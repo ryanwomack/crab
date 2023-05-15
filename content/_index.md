@@ -1,5 +1,5 @@
 +++
-date = "2023-05-12"
+date = "2023-05-15"
 # title = "Ryan Womack"
 draft = false
 
@@ -164,11 +164,10 @@ complete and current publication details.
 
 I am an active member of [IASSIST](https://www.iassistdata.org/) (the
 International Association for Social Science Information Service and
-Technology), currently serving as Member at Large for the USA. I served as Secretary of the Association from 2015 to
-2019.\
+Technology).  I served as Member at Large for the USA from 2019 to 2023, and as Secretary of the Association from 2015 to 2019.\
 On the national level, I was once active in the Business Reference and
 Services Section (BRASS) of the [American Library
 Association](https://www.ala.org/), including a term as Chair.\
 See my CV for further details of local activity.
 
-Last updated 2023-05-12
+Last updated 2023-05-15

@@ -23,7 +23,7 @@ is available at
 
 The site was unveiled at the [IASSIST 2023 Annual Conference](https://iassistdata.org/conferences/IASSIST2023).
 
-This is the conference [poster](/camgdp/Womack_Arystanbek_IASSIST_2023_Poster.pdf).
+This is the conference [poster](/docs/Womack_Arystanbek_IASSIST_2023_Poster.pdf).
 
 **Video description**
 
