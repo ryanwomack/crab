@@ -1,4 +1,3 @@
-SOMEONE IS MESSING AROUND WITH
 The MIT License (MIT)
 
 Copyright (c) 2017-2019 Thomas Heller

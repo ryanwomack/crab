@@ -1,5 +1,5 @@
 +++
-date = "2022-05-04"
+date = "2023-05-12"
 # title = "Ryan Womack"
 draft = false
 
@@ -23,10 +23,7 @@ Appointments:\
 Youtube:\
  [librarianwomack](https://www.youtube.com/librarianwomack/)
 
-Facebook:\
- [librarianwomack](https://www.facebook.com/librarianwomack/)
-
-Social Media:\
+Mastodon:\
  [@ryandata@mastodon.social](https://mastodon.social/@ryandata/)
  
 Blog:\
@@ -53,8 +50,8 @@ CV in [html](https://ryanwomack.com/rwomackcv.html) or
 Since 2013, I serve as **Data Librarian** for the New Brunswick
 Libraries, part of [Rutgers University
 Libraries](https://www.libraries.rutgers.edu/). Prior to this, I was
-Data and Economics Librarian, and prior to that, Business and Economics
-Librarian. Since 1999, I have been a member of the library faculty of
+*Data and Economics Librarian*, and prior to that, *Business and Economics
+Librarian*. Since 1999, I have been a member of the library faculty of
 [Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). I
 was granted tenure and promoted to the rank of Librarian II in 2005. In
 2019, I was promoted to the rank of **Librarian I** (equivalent to Full
@@ -66,20 +63,19 @@ Rutgers University-New Brunswick.
 As Data Librarian for Rutgers-New Brunswick, I am responsible for [Data Services](https://libguides.rutgers.edu/data),
 including outreach and training for data, assisting students and faculty, acquisition of data sources, development of research guides, and
 providing support for quantitative research across a range of
-disciplines. I am the lead for the [Graduate Specialist Program](https://libguides.rutgers.edu/graduatespecialist), hiring Rutgers-NB graduate students to teach workshops and provide consultations in advanced research methods, including Python, R, and other data science topics. I am particularly interested in developing and supporting data literacy and statistical literacy.
+disciplines. I led the development of the [Graduate Specialist Program](https://libguides.rutgers.edu/graduatespecialist), hiring Rutgers-NB graduate students to teach [workshops](https://libcal.rutgers.edu/nblworkshops) and provide consultations in advanced research methods, including Python, R, and other [data science](https://libguides.rutgers.edu/datascience) topics. I am serving from 2022 to 2025 as the *Head of the New Brunswick Libraries Research Services Unit*. I am particularly interested in developing and supporting data literacy and statistical literacy.
 
 I am the subject specialist for and liaison to the [Department of
 Economics](https://economics.rutgers.edu/), and the [Department of
 Agricultural, Food, and Resource Economics](https://dafre.rutgers.edu/).
 I manage the Libraries' collections, give instructional sessions, and
-help researchers and students locate information in these disciplines. 
+help researchers and students locate information in these disciplines. I am also the New Brunswick Libraries Point of Contact for Government Documents and Statistical Data Services.
 
-For the latest in data news, read and subscribe to my
-[RyanData](https://ryandata.wordpress.com/) blog at
-[RyanData.wordpress.com](https://ryandata.wordpress.com/). I also
-maintain the Libraries research guide for
-[Data](https://libguides.rutgers.edu/data) and for
-[Economics](https://libguides.rutgers.edu/economics).
+Some occasional thoughts about data and other things are at my [blog here](https://ryanwomack.com/blog). I also maintain the Libraries research guide for
+[Data](https://libguides.rutgers.edu/data) and for [Economics](https://libguides.rutgers.edu/economics).
+
+A current focus for me is the development of useful guides to data and statistical resources related to Mongolia and the countries of Central Asia (Kazakhstan, Kyrgzstan, Tajikistan, Turkmenistan, Uzbekistan).
+The [Central Asia and Mongolia Gender Data Portal (CAMGDP)](https://camgdp.org) exemplifies this.
 
 **Scholarship**
 
@@ -126,9 +122,11 @@ complete and current publication details.
 
 ### **Selected Presentations**
 
+-   "The Central Asia and Mongolia Gender Data Portal", IASSIST Annual Conference, Philadelphia, PA, May 31, 2023.  [More information](https://ryanwomack.com/camgdp/)
+-   "Addressing Diversity in Data through the work of Graduate Specialists", IASSIST Annual Conference (Hybrid), Gothenburg, Sweden, June 8, 2022.
+-   "From Pilot to JetStream: Building training pathways and collaboration in data science and digital humanities through the Library", IASSIST Annual Conference (Virtual), May 20, 2021. (postponed from 2020 due to COVID-19). [Short](https://www.youtube.com/watch?v=S6DfG0posjg), [Medium](https://www.youtube.com/watch?v=32AjyZjv7FQ%7C%7Cmedium), and [Long](https://www.youtube.com/watch?v=vEKGsUVWsh4) versions of the talk.
 -   "Big Data, Data Visualization, and Reproducible Research", Mongolian University of Science and Technology, Ulaanbaatar, Mongolia, May 12, 2017.
 -   "Data in Libraries: Data Processing and Visualization", Reference and User Services Association of the American Library Association, online, , May 4, 2017 \[repeated November 2, 2017\].
--   "Enhancing Understanding Through Data Visualization", Institute for Advanced Study, Princeton, NJ, December 5, 2016.
 -   "Putting Reproducibility into Practice: Workflows and Case Studies", Rutgers Workshop on Reproducibility in Experimental and Computational Science, Piscataway, NJ, October 10, 2016.
 -   "(a bit about) Data Visualization"], ICPSR Biennial Meeting, University of Michigan, Ann Arbor, October 2, 2015.
 
@@ -173,4 +171,4 @@ Services Section (BRASS) of the [American Library
 Association](https://www.ala.org/), including a term as Chair.\
 See my CV for further details of local activity.
 
-Last updated 2021-09-11
+Last updated 2023-05-12

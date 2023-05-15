@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
 
+<h2>Blog Posts</h2>
+
   {{ range sort .Paginator.Pages }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p class="timestamp">{{ .Date.Format "January 2, 2006" }}</p>
@@ -13,6 +15,5 @@
       {{ partial "tags" .Params.tags }}
     {{ end }}
   {{ end }}
-  {{ partial "pagination.html" . }}
 
 {{ partial "footer.html" . }}

@@ -1,5 +1,5 @@
 +++
-date = "2022-05-04"
+date = "2023-02-07"
 title = "Contact Ryan Womack"
 draft = false
 
@@ -26,10 +26,7 @@ Appointments:\
 Youtube:\
  [librarianwomack](https://www.youtube.com/librarianwomack/)
 
-Facebook:\
- [librarianwomack](https://www.facebook.com/librarianwomack/)
-
-Social Media:\
+Mastodon:\
  [@ryandata@mastodon.social](https://mastodon.social/@ryandata/)
  
 Blog:\

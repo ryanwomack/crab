@@ -17,6 +17,9 @@ body {
 
 #site-logo {
   float: right;
+  width: 70%;
+ }
+}
 }
 
 #site-title,
@@ -24,7 +27,7 @@ a:link,
 a:active,
 a:visited,
 a:hover {
-  color: #1da8be;
+  color: #314ac6;
 }
 
 #site-title {
